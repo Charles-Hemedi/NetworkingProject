@@ -346,28 +346,3 @@ NetworkingProject/
 
 ---
 
-## Version Control (GitHub)
-
-To initialize Git and push to GitHub:
-
-```bash
-# Initialize Git
-git init
-
-# Add files
-git add .
-
-# First commit
-git commit -m "Initial commit: Network Monitoring & Chat App"
-
-# Create repo on GitHub, then:
-git remote add origin https://github.com/your-username/networking-app.git
-git branch -M main
-git push -u origin main
-```
-
----
-
-## License
-
-This project is for educational purposes.

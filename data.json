@@ -1,0 +1,17 @@
+{
+  "name": "Network Monitoring & Chat App",
+  "version": "1.0",
+  "author": "Charles Hemedi",
+  "features": [
+    "Client-Server TCP Communication",
+    "JSON Message Format",
+    "Chat Functionality",
+    "Network Ping",
+    "Network Scan",
+    "Local IP Detection",
+    "Server Time",
+    "Data File Reading",
+    "Threading Support",
+    "GUI Interface"
+  ]
+}
